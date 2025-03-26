@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arham <br/><br>- 👀 I’m interested in Computer Science <br/><br>- 🤖 Student at CUI majoring in AI <br/><br>- 💻 I try to code what I see. If something peaks my curiosity, I'm always down to turn it into logic. <br/><br>- - 📹 I'm also into video editing <https://mahrarihat.wixsite.com/my-site-3><br><br>
+- 👋 Hi, I’m Arham <br/><br>- 👀 I’m interested in Computer Science <br/><br>- 🤖 Student at CUI majoring in AI <br/><br>- 💻 I try to code what I see. If something peaks my curiosity, I'm always down to turn it into logic. <br/><br>- 📹 I'm also into video editing <https://mahrarihat.wixsite.com/my-site-3><br><br>
 
 
 ## 🌐 Socials:
