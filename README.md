@@ -1,5 +1,5 @@
 # About Me:
-- I’m currently learning langchain, langgraphs, cloud platforms<br>- Ask me about Agentic AI<br>- Fun fact, I lack confidence<br>
+<br>- I’m currently learning langchain, langgraphs, cloud platforms<br>- Ask me about Agentic AI<br>- Fun fact, I lack confidence<br>
 
 
 ## Socials:
