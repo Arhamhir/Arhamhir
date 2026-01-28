@@ -1,4 +1,4 @@
-#About Me:
+#*About Me*:
 I’m currently learning langchain, langgraphs, cloud platforms<br>Ask me about Agentic AI<br>Fun fact I lack confidence<br>
 
 
