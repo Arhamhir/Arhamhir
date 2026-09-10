@@ -65,6 +65,7 @@ My work centers on multi-agent workflows, LLM orchestration, automation pipeline
 
 </div>
 
+<br>
 <details>
 <summary><b>Full technology breakdown</b></summary>
 <br>
