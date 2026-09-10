@@ -1,6 +1,6 @@
-# Muhammad Arham Tahir
-
 <div align="center">
+
+# Muhammad Arham Tahir
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+Undergraduate+%7C+Agentic+AI+Engineer;Building+Systems+That+Reason%2C+Execute+%26+Adapt;Multi-Agent+Workflows+%7C+LLMs+%7C+Automation;Exploring+Machine+Learning+%26+Autonomous+Systems" />
 
@@ -107,16 +107,11 @@ Anaconda · WordPress · Blender · Canva · Lua
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arhamhir&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamhir&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img src="https://raw.githubusercontent.com/arhamhir/arhamhir/main/github-metrics.svg" width="100%" alt="GitHub metrics overview" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=arhamhir&hide_border=true&theme=transparent" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhamhir&bg_color=00000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="95%" />
 
 </div>
 
