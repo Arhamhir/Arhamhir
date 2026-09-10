@@ -103,34 +103,6 @@ Anaconda · WordPress · Blender · Canva · Lua
 
 <br>
 
-## GitHub Overview
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arhamhir/arhamhir/main/github-metrics.svg" width="100%" alt="GitHub metrics overview" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=arhamhir&hide_border=true&theme=transparent" />
-
-</div>
-
-<br>
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arhamhir/arhamhir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arhamhir/arhamhir/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arhamhir/arhamhir/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br>
-
 <details>
 <summary><b>Currently Exploring</b></summary>
 <br>
